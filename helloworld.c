@@ -8,7 +8,7 @@ int rtn, i;
 		rtn +=i;
 	}
 	
-	printf("Hello, World2);
+	printf("Hello, World2\n");
 
 	return rtn;
 }
