@@ -9,6 +9,7 @@ int rtn, i;
 	}
 
 	printf("%d Hello, World5\n", rtn);
+	printf("%d\n", i);
 
 
 	return rtn;
