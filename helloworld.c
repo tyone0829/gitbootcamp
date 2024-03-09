@@ -9,11 +9,12 @@ int rtn, i;
 	}
 
 
-	printf("%d Hello, World6\n", rtn);
+	printf("%d /// Hello, World7 /// \n", rtn);
 
 	printf("%d\n", i);
 	printf("%d\n",i*rtn);
-
+	printf("%d\n",i/rtn);
+	printf("%d\n",i%rtn);
 
 	return rtn;
 }
