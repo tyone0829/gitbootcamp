@@ -8,6 +8,6 @@ int rtn, i;
 		rtn +=i;
 	}
 	
-	printf("Hello, World);
+	printf("Hello, kubo);
 	return rtn;
 }
