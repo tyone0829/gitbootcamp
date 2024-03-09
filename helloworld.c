@@ -7,8 +7,6 @@ int rtn, i;
 	for(i=0; i<20; i++){
 		rtn +=i;
 	}
-	
-
 	printf("%d Hello, World2\n", rtn);
 
 	return rtn;
