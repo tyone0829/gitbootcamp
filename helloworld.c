@@ -4,7 +4,7 @@ int main(){
 int rtn, i;
 
 	rtn=0;
-	for(i=0; i<10; i++){
+	for(i=0; i<20; i++){
 		rtn +=i;
 	}
 	
