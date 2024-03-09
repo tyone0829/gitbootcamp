@@ -3,13 +3,13 @@
 int main(){
 int rtn, i;
 
-/* “à•”¶¬‚µ‚½’l‚ð–ß‚è’l‚Æ‚·‚é */
+/* å†…éƒ¨ç”Ÿæˆã—ãŸå€¤ã‚’æˆ»ã‚Šå€¤ã¨ã™ã‚‹ */
 
 	rtn=0;
 	for(i=0; i<30; i++){
 		rtn +=i;
 	}
-/* •\Ž¦“à—e */
+/* è¡¨ç¤ºå†…å®¹ */
 	printf("%d /// Hello, World7 /// \n", rtn);
 
 	return rtn;
